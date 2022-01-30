@@ -1,0 +1,20 @@
+.div
+{
+   
+    background-color:red;
+    color:white;
+
+
+}
+.ball
+{
+    position:fixed;
+
+}
+body{
+    margin:0;
+}
+div:nth-child(even)
+{
+    color:yellow;
+}

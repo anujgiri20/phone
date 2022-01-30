@@ -1,0 +1,36 @@
+body{
+    background-color: #eef0ec;
+    color:black;
+}
+
+.first
+{
+    margin-left:50px;
+}
+.heding{
+    font-size: 3rem;
+    margin-top:100px;
+}
+td{
+    color:white;
+}
+.second
+{
+    padding-left: 50px;
+}
+.foo
+{
+    width:80%;
+    
+}
+.temp
+{
+    margin-top:50px;
+    margin-bottom:50px;
+    margin-left:100px;
+}
+.table
+{
+  
+  margin-left:100px;
+}

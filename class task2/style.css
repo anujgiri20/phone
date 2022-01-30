@@ -1,0 +1,98 @@
+body{
+    margin:0;
+}
+.git
+{
+    background-color:#384953;
+    margin-bottom: 25px;
+    color:white;
+    font-weight:normal;
+    text-align: center;
+    display: inline-block;
+    margin-left:42%;
+    font-size: 2rem;
+    
+    
+    letter-spacing: 0.3rem;
+}
+::placeholder
+{
+    color:#c6d6c2;
+    font-size:1.2rem;   letter-spacing: 0.2rem; padding-left:20px;
+}
+.gitgit
+{
+    background-color:#384953;
+
+}
+.box1
+{
+    border-radius:15px;
+    background: #2B2B2B;
+    margin-top:60px;
+    height: 150px;
+    margin-left:80px;
+    width: 100%;
+    
+}
+.box2
+{border-radius:15px;
+    background: #2B2B2B;
+  margin-top:60px;
+    width: 100%;
+    height: 150px;
+    margin-left:60px;
+}
+.box3
+{ border-radius:10px;
+    background: #2B2B2B;
+  margin-top:60px;
+  width: 100%;
+    height: 150px;
+    margin-left:60px;
+}
+.textt
+{
+    border-radius:15px;
+    width:600px;
+    background: #2B2B2B;
+    margin-top:95px;
+    margin-left:140px;
+    height: 50px;
+    color:white;
+}
+.box4
+{border-radius:15px;
+    color: #444941;
+    
+    background: #2B2B2B;
+    margin-top:90px;
+    padding-top:200px;
+    padding-left:760px;
+    margin-left:60px;
+   
+}
+.box0
+{
+    border-radius:15px;
+ 
+ 
+    background: #2B2B2B;
+    margin-top:90px;
+    padding-left:150px;
+    padding-top:550px;
+ 
+}
+body{
+    background-color: #c6d6c2;
+}
+.place
+{
+    color:white;
+}
+.fa
+{
+   margin-left:40px; 
+   margin-top: 20px;
+   color:white;
+}
